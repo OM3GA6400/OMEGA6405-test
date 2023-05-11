@@ -17,8 +17,6 @@
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <p align="center">
-<img src="https://img.shields.io/badge/Made%20with-Python-blue.svg"/>
-<img src="https://img.shields.io/badge/Made%20with-Markdown-black.svg"/>
 <img src="https://img.shields.io/github/license/th3c0d3br34ker/github-readme-info"/>
 <img src="https://img.shields.io/github/stars/th3c0d3br34ker/github-readme-info"/>
 <img src="https://img.shields.io/github/forks/th3c0d3br34ker/github-readme-info"/> 
